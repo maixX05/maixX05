@@ -1,7 +1,7 @@
 ### Hi Friend！I am MaiSR！ 👋
-[![Anurag's GitHub stats](https://profile-readme-c4459w9fh.vercel.app/api?username=MaiSR9527&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://profile-readme-mu.vercel.app/api?username=MaiSR9527&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://profile-readme-c4459w9fh.vercel.app/api/top-langs/?username=MaiSR9527&hide=HTML,smarty)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://profile-readme-mu.vercel.app/api/top-langs/?username=MaiSR9527&hide=HTML,smarty)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MaiSR9527/MaiSR9527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
