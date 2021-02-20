@@ -3,11 +3,15 @@
 
 [![wakatime统计信息](https://readme-profile.vercel.app/api/wakatime?username=maisr)](https://github.com/MaiSR9527/github-readme-stats)
 
-<a href= “https://github.com/anuraghazra/github-readme-stats”>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiSR9527&repo=java-interview-note" />
+<a href="https://github.com/MaiSR9527/java-interview-note">
+  <img align="center" src="https://readme-profile.vercel.app/api/pin/?username=MaiSR9527&repo=java-interview-note" />
 </a>
 
-[![Top Langs](https://readme-profile.vercel.app/api/top-langs/?username=MaiSR9527&hide=HTML,smarty,CSS)](https://github.com/MaiSR9527/github-readme-stats)
+<a href="https://github.com/MaiSR9527/go-web-demo">
+  <img align="center" src="https://readme-profile.vercel.app/api/pin/?username=MaiSR9527&repo=go-web-demo" />
+</a>
+
+[![Top Langs](https://readme-profile.vercel.app/api/top-langs/?username=MaiSR9527&langs_count=8&hide=HTML,smarty,CSS)](https://github.com/MaiSR9527/github-readme-stats)
 <!--
 **MaiSR9527/MaiSR9527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
