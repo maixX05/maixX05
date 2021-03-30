@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/MaiSR9527/go-web-demo">
-  <img align="center" src="https://readme-profile.vercel.app/api/pin/?username=MaiSR9527&repo=go-web-demo" />
+  <img align="center" src="https://readme-profile.vercel.app/api/pin/?username=MaiSR9527&repo=multi-mysql-datasource" />
 </a>
 
 [![Top Langs](https://readme-profile.vercel.app/api/top-langs/?username=MaiSR9527&langs_count=8&hide=HTML,smarty,CSS)](https://github.com/MaiSR9527/github-readme-stats)
