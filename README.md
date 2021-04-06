@@ -7,7 +7,7 @@
   <img align="center" src="https://readme-profile.vercel.app/api/pin/?username=MaiSR9527&repo=java-interview-note" />
 </a>
 
-<a href="https://github.com/MaiSR9527/go-web-demo">
+<a href="https://github.com/MaiSR9527/multi-mysql-datasource">
   <img align="center" src="https://readme-profile.vercel.app/api/pin/?username=MaiSR9527&repo=multi-mysql-datasource" />
 </a>
 
