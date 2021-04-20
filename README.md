@@ -1,7 +1,7 @@
 ### Hi Friend！Welcome！ 👋
-[![Anurag's GitHub stats](https://readme-profile.vercel.app/api?username=MaiSR9527&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/MaiSR9527/github-readme-stats)
+[![Anurag's GitHub stats](https://readme-profile.vercel.app/api?username=MaiSR9527&count_private=true&show_icons=true&theme=radical)](https://github.com/MaiSR9527/github-readme-stats)
 
-[![wakatime统计信息](https://readme-profile.vercel.app/api/wakatime?username=maisr&layout=compact)](https://github.com/MaiSR9527/github-readme-stats)
+[![wakatime统计信息](https://readme-profile.vercel.app/api/wakatime?username=maisr)](https://github.com/MaiSR9527/github-readme-stats)
 
 <a href="https://github.com/MaiSR9527/java-interview-note">
   <img align="center" src="https://readme-profile.vercel.app/api/pin/?username=MaiSR9527&repo=java-interview-note" />
