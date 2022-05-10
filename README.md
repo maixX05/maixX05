@@ -1,7 +1,7 @@
 ### Hi Friend！Welcome！ 👋
 To Be A Burst Stack Software Engineer
-* Job：Java Backend Development Engineer
-* Position：Guangzhou
+* Position：Java Backend Development Engineer
+* Location：Guangzhou
 * Blog：[:house_with_garden: 个人博客](https://www.maishuren.top) [:boom:​掘金](https://juejin.cn/user/1055176692602791)
 * 联系方式：(常用、方便查看)maisrcn@qq.com   (比较少用)maishuren66@gmail.com
 
