@@ -3,7 +3,7 @@ To Be A Burst Stack Software Engineer
 * Position：Java Backend Development Engineer
 * Location：Guangzhou
 * Blog：[:house_with_garden: 个人博客](https://www.maishuren.top) [:boom:​掘金](https://juejin.cn/user/1055176692602791)
-* 联系方式：(常用、方便查看)maisrcn@qq.com   (比较少用)maishuren66@gmail.com
+* Contact：maisrcn@qq.com   maishuren66@gmail.com
 
 [![Anurag's GitHub stats](https://readme-profile.vercel.app/api?username=MaiSR9527&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/MaiSR9527/github-readme-stats)
 
