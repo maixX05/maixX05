@@ -1,9 +1,10 @@
 ### Hi Friend！Welcome！ 👋
-To Be A Burst Stack Software Engineer
-* Position：Java Backend Development Engineer
-* Location：Guangzhou
-* Blog：[:house_with_garden: 个人博客](https://www.maishuren.top) [:boom:​掘金](https://juejin.cn/user/1055176692602791/posts)
-* Contact：maisrcn@qq.com   maishuren66@gmail.com
+- 🔭 I want to be a burst stack software engineer
+- 🌱 I’m currently learning some framework source code
+- 📫 Now Position：Java Backend Development Engineer
+- 🤔 Location：Guangzhou
+- 💬 Blog：[:house_with_garden: 个人博客](https://www.maishuren.top) [:boom:​掘金](https://juejin.cn/user/1055176692602791/posts)
+- 👯 Contact：maisrcn@qq.com   maishuren66@gmail.com
 
 [![Anurag's GitHub stats](https://readme-profile.vercel.app/api?username=MaiSR9527&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/MaiSR9527/github-readme-stats)
 
