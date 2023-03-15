@@ -12,22 +12,6 @@
 
 [![wakatime统计信息](https://readme-profile.vercel.app/api/wakatime?username=maisr)](https://github.com/MaiSR9527/github-readme-stats)
 
-<a href="https://github.com/MaiSR9527/multi-mysql-datasource">
-  <img align="center" src="https://readme-profile.vercel.app/api/pin/?username=MaiSR9527&repo=multi-mysql-datasource" />
-</a>
-
-<a href="https://github.com/MaiSR9527/cloud-eureka-practice">
-  <img align="center" src="https://readme-profile.vercel.app/api/pin/?username=MaiSR9527&repo=cloud-eureka-practice" />
-</a>
-
-<a href="https://github.com/MaiSR9527/cloud-openfeign-practice">
-  <img align="center" src="https://readme-profile.vercel.app/api/pin/?username=MaiSR9527&repo=cloud-openfeign-practice" />
-</a>
-
-<a href="https://github.com/MaiSR9527/cloud-ribbon-practice">
-  <img align="center" src="https://readme-profile.vercel.app/api/pin/?username=MaiSR9527&repo=cloud-ribbon-practice" />
-</a>
-
 [![Top Langs](https://readme-profile.vercel.app/api/top-langs/?username=MaiSR9527&langs_count=8&hide=HTML,smarty,CSS,JavaScript)](https://github.com/MaiSR9527/github-readme-stats)
 <!--
 **MaiSR9527/MaiSR9527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
