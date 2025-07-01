@@ -4,9 +4,6 @@
 - 🔭 I want to be a burst stack software engineer
 - 🌱 I’m currently learning some framework source code
 - 🏣 Now Position：Java Backend Development Engineer
-- 🤔 Location：Guangzhou
-- 💬 Blog：[:house_with_garden: blog](https://www.maishuren.top) [:boom:​juejin](https://juejin.cn/user/1055176692602791/posts)
-- 📫 Contact：maisrcn@qq.com   maishuren66@gmail.com
 
 [![Anurag's GitHub stats](https://readme-profile.vercel.app/api?username=MaixX05&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/MaixX05/github-readme-stats)
 
